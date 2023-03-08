@@ -1,5 +1,7 @@
-url: "https://orlovic982.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/kindergarten" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#https://orlovic982.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+#/kindergarten
 title: "" # the name of your site, e.g. ACME Corp.
 
 
